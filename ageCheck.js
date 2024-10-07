@@ -1,4 +1,4 @@
-// Prompt the user to enter their age.
+// Program that prompts the user to enter their age.
 function askAge(){
     let age = prompt("Enter your age:");
     if (age < 13) {
